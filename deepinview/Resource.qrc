@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/16X16.png</file>
+        <file>res/DIV_common_top_exit_icon_over.png</file>
+        <file>res/DIV_common_top_logo_icon.png</file>
+        <file>res/DIV_common_top_minimize_icon_over.png</file>
+        <file>res/DIV_home_dsm_btn_off.png</file>
+        <file>res/DIV_home_dsm_btn_on.png</file>
+        <file>res/DIV_home_monitoring_record.gif</file>
+        <file>res/DIV_splash_bg.png</file>
+        <file>res/DIV.ico</file>
+        <file>res/main_bg_monitoring.png</file>
+        <file>res/main_bg_movie_player.png</file>
+        <file>res/DIV_home_right_graph_moon_icon.png</file>
+        <file>res/DIV_home_right_graph_sun_icon.png</file>
+    </qresource>
+</RCC>
